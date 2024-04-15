@@ -3,4 +3,4 @@ junya
 
 taniaiiiiiiiiiiiiii
 
-USERNAME-modify-first
+USERNAME resolve conflict
